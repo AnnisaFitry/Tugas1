@@ -6,8 +6,8 @@
     Absen : 09
     NIM : 2041720123
   
-    ### Hello World (default)
-    ![ss1](images/ss1.jpeg)
+    - Hello World (default)
+    ![ss1](/images/ss1.jpeg)
     
-    ### Hello World (Edited)
-    ![ss2](images/ss2.jpeg)
+    - Hello World (Edited)
+    ![ss2](/images/ss2.jpeg)

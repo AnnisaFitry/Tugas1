@@ -7,7 +7,7 @@
     NIM : 2041720123
   
     ### Hello World (default)
-    ![ss1](images/ss1.png)
+    ![ss1](images/ss1.jpeg)
     
     ### Hello World (Edited)
-    ![ss1](images/ss1.png)
+    ![ss2](images/ss2.jpeg)

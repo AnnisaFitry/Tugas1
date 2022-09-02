@@ -7,7 +7,7 @@
     NIM : 2041720123
   
     - Hello World (default)
-    ![ss1](/images/ss1.jpeg)
+    ![](https://github.com/AnnisaFitry/Tugas1/blob/master/images/ss1.jpeg)
     
     - Hello World (Edited)
-    ![ss2](/images/ss2.jpeg)
+    ![](https://github.com/AnnisaFitry/Tugas1/blob/master/images/ss2.jpeg)
